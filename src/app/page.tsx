@@ -43,7 +43,7 @@ export default function Home() {
           >
             <AuroraText className="text-8xl font-bold mb-6">WEBSITE B</AuroraText>
             <h2 className="text-xl md:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto">
-              Experience the future of web design with our innovative platform. 
+              Experience the future of web design with our innovative platform. <br/>
               Join us in creating something extraordinary.
             </h2>
             <ShimmerButton 
